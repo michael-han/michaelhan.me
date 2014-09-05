@@ -1,0 +1,14 @@
+body {
+	overflow-y:scroll; 
+	padding-top: 20px;
+	draggable:false;
+}
+
+.home {
+	padding: 75px 15px;
+	text-align: center;
+}
+
+.navbar {
+	background-color: #f0f0f0;
+}
