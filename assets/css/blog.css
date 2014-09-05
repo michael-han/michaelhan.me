@@ -1,6 +1,5 @@
 body {
 	overflow-y:scroll; 
-	padding-top: 20px;
 	draggable:false;
 }
 
@@ -8,11 +7,30 @@ body {
 	background-color: #f0f0f0;
 }
 
-#blog {
+.blog {
 	padding: 75px 15px;
 }
 
-#blog-border{
+.active {
+	background-color: #e7e7e7;
+	color: #555;
+}
+
+.nav-pills > li.active > a {
+	background-color: #e7e7e7;
+}
+
+.nav-pills > li.active > a:hover {
+	background-color: #e7e7e7;
+}
+
+#blog-tabs {
+	background-color: #f6f6f6;
 	border:1px solid #ccc;
 	border-radius: 6px;
 }
+
+#blog-tabs a {
+	color: #777;
+}
+
