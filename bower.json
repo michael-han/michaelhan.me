@@ -1,0 +1,23 @@
+{
+  "name": "michaelhan.me",
+  "version": "0.0.1",
+  "homepage": "https://github.com/michael-han/michaelhan.me",
+  "authors": [
+    "Michael Han <michaelhantaejun@gmail.com>"
+  ],
+  "description": "Personal website for Michael Han",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "jquery": "~2.1.1",
+    "angular": "~1.3.15"
+  }
+}
