@@ -1,2 +1,8 @@
+# basic files
 .DS_Store
+
+# bower
 bower_components
+
+# data structures notes folder
+data_structures
