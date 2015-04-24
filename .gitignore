@@ -1,8 +1,2 @@
-# basic files
 .DS_Store
-
-# bower
 bower_components
-
-# ignore data_structures folder
-data_structures
